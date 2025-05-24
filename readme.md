@@ -101,19 +101,19 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 ## Screenshots
 
 1. **Terminal run**
-   ![Terminal](/assets/img/Screenshot 2025-05-23 222632.png)
+   !\[Terminal]\(assets/img/Screenshot 2025-05-23 222632.png)
 
 2. **Disclaimer dialog**
-   ![Disclaimer](/assets/img/Screenshot 2025-05-23 222652.png)
+   !\[Disclaimer]\(assets/img/Screenshot 2025-05-23 222652.png)
 
 3. **Settings dialog**
-   ![Settings](/assets/img/Screenshot 2025-05-23 222729.png)
+   !\[Settings]\(assets/img/Screenshot 2025-05-23 222729.png)
 
 4. **Success message**
-   ![Success Message](/assets/img/Screenshot 2025-05-23 222740.png)
+   !\[Success Message]\(assets/img/Screenshot 2025-05-23 222740.png)
 
 5. **Labels in schematic**
-   ![Schematic Labels](/assets/img/Screenshot 2025-05-23 222850.png)
+   !\[Schematic Labels]\(assets/img/Screenshot 2025-05-23 222850.png)
 
 ## Changelog
 
