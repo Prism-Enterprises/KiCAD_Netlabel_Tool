@@ -98,6 +98,23 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ---
 
+## Screenshots
+
+1. **Terminal run**
+   !\[Terminal]\(.github/img/Screenshot 2025-05-23 222632.png)
+
+2. **Disclaimer dialog**
+   !\[Disclaimer]\(.github/img/Screenshot 2025-05-23 222652.png)
+
+3. **Settings dialog**
+   !\[Settings]\(.github/img/Screenshot 2025-05-23 222729.png)
+
+4. **Success message**
+   !\[Success Message]\(.github/img/Screenshot 2025-05-23 222740.png)
+
+5. **Labels in schematic**
+   !\[Schematic Labels]\(.github/img/Screenshot 2025-05-23 222850.png)
+
 ## Changelog
 
 ### v1.1  (2025‑05‑23)
